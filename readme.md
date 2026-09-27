@@ -2,3 +2,4 @@
 ## resiposibility
 ### jin
 - faeture-add+
+- conflits
